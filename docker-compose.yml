@@ -1,0 +1,30 @@
+version: '3.7'
+
+services:
+  postgres:
+    image: sameersbn/postgresql:10-2
+    ports:
+      - "5432:5432"
+    environment:
+      - DB_USER=user
+      - DB_PASS=user
+      - DB_NAME=soa
+    volumes:
+      - /srv/docker/postgresql:/var/lib/postgresql
+
+  consul-server:
+    image: consul:1.9.3
+    container_name: consul-aff
+    volumes:
+      - ./server1.json:/consul/config/server1.json:ro
+      - ./certs/:/consul/config/certs/:ro
+    networks:
+      - consul
+    ports:
+      - '8500:8500'
+      - '8600:8600/tcp'
+      - '8600:8600/udp'
+
+networks:
+  consul:
+    driver: bridge

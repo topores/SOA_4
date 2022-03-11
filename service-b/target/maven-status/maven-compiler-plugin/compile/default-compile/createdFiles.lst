@@ -1,0 +1,7 @@
+com\example\soa_2\config\ServiceDiscoveryWorker.class
+com\example\soa_2\controller\PersonController.class
+com\example\soa_2\controller\MovieController.class
+com\example\soa_2\config\ConsulAutoConfiguration.class
+com\example\soa_2\controller\LocationController.class
+com\example\soa_2\controller\CoordinatesController.class
+com\example\soa_2\SoaApplication.class

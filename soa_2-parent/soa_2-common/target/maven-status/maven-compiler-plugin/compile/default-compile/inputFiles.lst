@@ -1,0 +1,17 @@
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/remote/RemoteMovieService.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/paging/Filter.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/paging/Pageable.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/dto/MovieDto.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/dto/MovieGenre.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/remote/RemotePersonService.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/paging/Sort.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/remote/RemoteClientService.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/exception/FilterIsNotSupportedException.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/paging/Page.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/exception/UnsupportedFilterOperation.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/remote/RemoteLocationService.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/dto/CountDto.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/remote/RemoteCoordinatesService.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/dto/PersonDto.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/dto/CoordinatesDto.java
+/Users/rostislavdavydov/Desktop/SOA3/SOA_3-main/soa_2-parent/soa_2-common/src/main/java/dto/LocationDto.java
